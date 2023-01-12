@@ -43,8 +43,6 @@ border: 1px solid rgb(178, 180, 184);
 font-weight: 400;
 font-size: 14px;
 background-color: rgb(0, 0, 0);
-
-
 font-family: 'Poppins', sans-serif;
 cursor: pointer;
 
@@ -150,19 +148,8 @@ box-shadow: 3px 3px 17px -1px rgba(104, 103, 103, 0.192);
     }
 } */
  @media screen and (min-width:375px) {
-    .pagination{
-
-
-
-   
-        position: fixed;
+ 
     
-      bottom: 20px;
-      left: 30px;
-    
-    margin: 0;
-    
-    }
     button{
 
         padding: 10px 10px;
@@ -178,7 +165,7 @@ box-shadow: 3px 3px 17px -1px rgba(104, 103, 103, 0.192);
         cursor: pointer;
 
     }
-}
+ }
 /* @media screen and (min-width:414px) {
     .pagination{
 
@@ -241,4 +228,4 @@ box-shadow: 3px 3px 17px -1px rgba(104, 103, 103, 0.192);
         cursor: pointer;
 
     }
-} */ */
+} */ 
